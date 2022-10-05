@@ -1,5 +1,8 @@
 # Data-Analytics-Application-in-Real-Life-Scenario-Case-Study
 
+**Task:**
+ task is to give the example(s) of such a real-life situation where we use Data Analytics and link it with the data analytics process. You can prepare a PPT/PDF on a real-life scenario explaining it with the above process (Plan, Prepare, Process, Analyze, Share, Act) and submit it as part of this task.
+
 **Description:**
 We use Data Analytics in everyday life without even knowing it.
 For eg : Going to a market to buy something .
